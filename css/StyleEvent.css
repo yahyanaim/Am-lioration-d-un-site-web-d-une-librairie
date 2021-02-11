@@ -1,0 +1,28 @@
+.Event
+{
+
+    max-width: 70%;
+    margin: auto;
+    text-align: center;
+    
+}
+
+.Event p
+{
+ font-weight: normal;
+ font-size: 17px;
+line-height: 32px;
+font-family: 'poppins', sans-serif;
+} 
+  
+a
+{
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+}
+  
+button:hover, a:hover
+{
+    opacity: 1;
+}
